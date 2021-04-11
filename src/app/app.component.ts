@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'AngularDirectiveExercice';
+  title = 'Angular Directive Exercice';
+  title2 = "Bonjour ! ";
+  isAdmin: boolean = false;
 }
